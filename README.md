@@ -69,7 +69,10 @@ Users input:
 ### 🎯 3. Goal Planning *(Planned)*
 - Set financial goals  
 - Track progress  
-- Get monthly savings suggestions  
+- Get monthly savings suggestions
+
+- <img width="1600" height="781" alt="image" src="https://github.com/user-attachments/assets/91a8bc2d-af24-489c-8e06-34d18feb4a18" />
+
 
 ---
 
@@ -77,6 +80,9 @@ Users input:
 Ask questions like:
 - “Can I afford this?”  
 - “Should I take this loan?”  
+
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/d8aa2060-33b1-4397-ac4c-b3a22699ae70" />
+
 
 ---
 
@@ -104,3 +110,6 @@ Astra is built with **user trust as a priority**:
 
 ```plaintext
 User Input → Data Processing → Financial Logic Engine → Risk Analysis → AI Explanation → UI Output
+
+<img width="1600" height="756" alt="image" src="https://github.com/user-attachments/assets/81c3e207-b9c1-4130-a36b-f30f8f337bbc" />
+
