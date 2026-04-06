@@ -111,5 +111,6 @@ Astra is built with **user trust as a priority**:
 ```plaintext
 User Input → Data Processing → Financial Logic Engine → Risk Analysis → AI Explanation → UI Output
 
+
 <img width="1600" height="756" alt="image" src="https://github.com/user-attachments/assets/81c3e207-b9c1-4130-a36b-f30f8f337bbc" />
 
